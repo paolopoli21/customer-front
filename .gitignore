@@ -36,3 +36,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/.vs/slnx.sqlite
+/.vs/customer-front/FileContentIndex/8688bd7f-f881-4789-abfe-694af16c9f38.vsidx
+/.vs/customer-front/FileContentIndex/a9ce8426-b768-4a4d-9439-f08a3f62a2f4.vsidx
+/.vs/customer-front/FileContentIndex/aa230431-4287-4b39-b16b-dad15d2fee0c.vsidx
+/.vs/customer-front/FileContentIndex/db2dbd2b-401a-4f2d-9860-de3a9e71e2dd.vsidx
